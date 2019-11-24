@@ -1,0 +1,23 @@
+{
+  "name": "coffee-and-cake",
+  "version": "1.0.0",
+  "description": "Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drochgenius/coffee-and-cake.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drochgenius/coffee-and-cake/issues"
+  },
+  "homepage": "https://github.com/drochgenius/coffee-and-cake#readme",
+  "devDependencies": {
+    "lerna": "^3.19.0"
+  }
+}
